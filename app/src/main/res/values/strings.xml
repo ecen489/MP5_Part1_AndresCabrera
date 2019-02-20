@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MP5_Part1_AndresCabrera</string>
+    <string name="textView">JAMS</string>
+    <string name="button">Play</string>
+    <string name="button2">Stop</string>
+    <string name="radioButton">Hip Hop</string>
+    <string name="radioButton2">EDM</string>
+    <string name="radioButton3">Latin</string>
+</resources>
